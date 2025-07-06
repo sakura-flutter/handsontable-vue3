@@ -5,6 +5,8 @@ export default defineConfig({
   resolve: {
     entryFile: 'src/index.ts',
   },
+  base: '/handsontable-vue3/',
+  publicPath: '/handsontable-vue3/',
   outputPath: 'docs-dist',
   themeConfig: {
     // name: '@sakura-flutter/handsontable-vue3',
