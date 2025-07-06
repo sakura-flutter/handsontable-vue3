@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_sakura_flutter_handsontable_vue3=self.webpackChunk_sakura_flutter_handsontable_vue3||[]).push([[935],{70619:function(l,a,n){n.r(a);var t=n(17617),u=n(75271),s=n(76468),_=n(52676);function e(){return(0,_.jsx)(s.dY,{children:(0,_.jsx)(u.Suspense,{fallback:(0,_.jsx)(t.Z,{}),children:(0,_.jsx)(_.Fragment,{})})})}a.default=e}}]);
